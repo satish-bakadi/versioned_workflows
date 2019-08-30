@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "dataModelVersion" : "2"
+  },
+  "content" : {
+    "comments" : "",
+    "componentType" : "PROCESS_GROUP",
+    "connections" : [ ],
+    "controllerServices" : [ ],
+    "funnels" : [ ],
+    "identifier" : "7d4b8347-694d-3094-ae0e-c77ec5994fd2",
+    "inputPorts" : [ ],
+    "labels" : [ ],
+    "name" : "flow-8",
+    "outputPorts" : [ ],
+    "position" : {
+      "x" : 646.4300997080875,
+      "y" : 2540.8591541460028
+    },
+    "processGroups" : [ ],
+    "processors" : [ ],
+    "remoteProcessGroups" : [ ],
+    "variables" : { }
+  }
+}
